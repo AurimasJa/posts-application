@@ -2,6 +2,9 @@
 </br>
 I have successfully developed posts application that empowers user to create, delete, update and read authors and posts including search functionality and pagination in both views.</br>
 
+## Notifications
+Project includes notifications on every successful with success and unsuccessful move with error messages.
+
 ## Posts
 User can create post by choosing an author, writing post title and body.</br>
 User can delete post by id.</br>
