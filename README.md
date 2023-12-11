@@ -39,3 +39,7 @@ Routers being created using nested route pattern
 
 ## Store
 All data is being handled in vuex store to centralize state management and ensure data consistency across components.
+
+## Testing
+This application is tested using Vitest and mocked data.
+- Unit Tests: Isolated testing of individual components to verify their functionality independently.
